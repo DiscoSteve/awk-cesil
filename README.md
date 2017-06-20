@@ -9,4 +9,4 @@ or
 
 gawk -f cesil.awk sourcefile.ces
 
-permemanently capture output by appending >outputfile.txt to the command
+permanently capture output by appending >outputfile.txt to the command
